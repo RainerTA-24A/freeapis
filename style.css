@@ -1,0 +1,25 @@
+body {
+    background-color: burlywood;
+  }
+  .header {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 40px;
+    background-color: #0a0a23;
+    color: #fff;
+    border-bottom: 4px solid #fdb347;
+  }
+  
+h1 {
+    margin: 20px;
+    text-align: center;
+}
+h2 {
+    margin: 15px;
+    text-align: center;
+}
+h3 {
+    margin:15px;
+    text-align: center;
+    border-bottom: 8px solid black;
+}
